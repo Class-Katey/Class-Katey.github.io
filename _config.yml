@@ -24,21 +24,21 @@ repository               : "akshaydevkate/akshaydevkate.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Akshay Devkate"
+  name             : "Sandtherland Class Katey"
   pronouns         : # example: "she/her"
   bio              : "Full Stack Developer | Empirical Researcher | Software Quality | Open Source | Startups"
   location         : "🚂✈️🍺"
-  employer         : "University of Potsdam"
+  employer         : ""
   uri              : # URL
-  email            : "" 
+  email            : "classkatey@gmail.com" 
 
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=uhcXpAgAAAAJ&hl=en&oi=ao"
+  googlescholar    : ""
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "https://orcid.org/0009-0004-9608-4479"
+  orcid            : ""
   semantic         : # URL
   pubmed           : # URL
   researchgate     : # URL
